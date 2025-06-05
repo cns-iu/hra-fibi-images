@@ -23,7 +23,7 @@ DOI: 10.1038/s41467-024-54591-6
 
 FIBI-processed images offer a powerful advantage in studying functional tissue units (FTUs) by providing rapid, high-resolution visualization of intact tissue architecture without the need for traditional sectioning. The 2.5D nature of these images preserves spatial continuity and depth cues, enabling clearer interpretation of FTU structure and organization. This enhanced dimensionality supports ongoing efforts to gain deeper insights into the physiological function and structural organization of tissues.
 
-### ![](./image3.png)
+![](./image3.png)
 Image 3: A visual comparison between the illustrated prostate gland FTU and FIBI processed tissue image of the prostate gland.
 
 # Images
