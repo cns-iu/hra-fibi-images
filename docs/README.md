@@ -3,7 +3,7 @@
 ## June 15, 2025
 
 ![](./image1.png)
-Image 1: Intestinal Villus.
+Figure 1: Intestinal Villus.
 
 # Fluorescence Imitating Brightfield Imaging (FIBI)
 
@@ -15,7 +15,7 @@ Functional tissue units form the basic building blocks of organs and are importa
 
 ![](./image2.png)
 
-Image 2: A catalog of 22 functional tissue units (FTUs) in the Human Reference Atlas.   
+Figure 2: A catalog of 22 functional tissue units (FTUs) in the Human Reference Atlas.   
 Image credit: Figure 1 from Functional Tissue Units in the Human Reference Atlas.   
 DOI: 10.1038/s41467-024-54591-6
 
@@ -24,7 +24,7 @@ DOI: 10.1038/s41467-024-54591-6
 FIBI-processed images offer a powerful advantage in studying functional tissue units (FTUs) by providing rapid, high-resolution visualization of intact tissue architecture without the need for traditional sectioning. The 2.5D nature of these images preserves spatial continuity and depth cues, enabling clearer interpretation of FTU structure and organization. This enhanced dimensionality supports ongoing efforts to gain deeper insights into the physiological function and structural organization of tissues.
 
 ![](./image3.png)
-Image 3: A visual comparison between the illustrated prostate gland FTU and FIBI processed tissue image of the prostate gland.
+Figure 3: A visual comparison between the illustrated prostate gland FTU and FIBI processed tissue image of the prostate gland.
 
 # Images
 
@@ -45,5 +45,5 @@ Collection of FIBI images for 12 FTUs across 9 organs.
 
 # Resources
 
-* Bidanta, S., Börner, K., Herr II, B.W. et al. Functional tissue units in the Human Reference Atlas. Nat Commun 16, 1526 (2025). [https://doi.org/10.1038/s41467-024-54591-6](https://doi.org/10.1038/s41467-024-54591-6)  
-* Au Yeung S, Giaretta P, Morningstar T, et al. Utility of fluorescence imitating brightfield imaging microscopy for the diagnosis of feline chronic enteropathy. Veterinary Pathology. 2022;60(1):52-59. doi:[10.1177/03009858221131363](https://doi.org/10.1177/03009858221131363)
+* Bidanta, S., Katy Börner, Brian W. Herr II, et al. “Functional Tissue Units in the Human Reference Atlas.” Nature Communications 16 (2025): 1526. https://doi.org/10.1038/s41467-024-54591-6.  
+* Au Yeung, S., P. Giaretta, T. Morningstar, et al. “Utility of Fluorescence Imitating Brightfield Imaging Microscopy for the Diagnosis of Feline Chronic Enteropathy.” Veterinary Pathology 60, no. 1 (2022): 52–59. https://doi.org/10.1177/03009858221131363.
