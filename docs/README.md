@@ -10,14 +10,14 @@ Fluorescence Imitating Brightfield Imaging (FIBI) \[1\] is a microscopy techniqu
 # Functional Tissue Units
 
 Functional tissue units (see **Fig. 2**) form the basic building blocks of organs and are important for understanding and modeling the healthy physiological function of the organ and changes that occur during disease states \[2\].  
-![](image2.png) 
+![](image3.png) 
 **Figure 2:** A catalog of 22 functional tissue units (FTUs) in the Human Reference Atlas. Image adopted from \[2\].  
 
 # FIBI for Functional Tissue Units
 
 FIBI-processed images (see **Fig. 3, right**) make it possible to study whole FTUs by providing rapid, high-resolution visualization of intact tissue architecture without the need for traditional sectioning. The 2.5-dimensional nature of these images preserves spatial continuity and depth cues, enabling a clearer interpretation of FTU structure and physiological function plus meso-scale tissue organization.
 
-![](image3.png) 
+![](image2.png) 
 **Figure 3**: Visual comparison between the prostate glandular acinus gland FTU (left) and FIBI-processed tissue image of the prostate gland (right).
 
 # Images
