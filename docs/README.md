@@ -30,21 +30,21 @@ The liver FTU (liver lobule) was captured from a specimen that was never embedde
 
 Following acquisition, all images were visually enhanced in GIMP as needed, including processes such as artifact removal, color correction, enhancement of brightness/contrast, and sharpening.
 
-Collection of FIBI images for 12 FTUs across 9 organs:
+Collection of FIBI images for 13 FTUs across 9 organs:
 
-1. [Large Intestine/Crypt-of-Lieberkuhn-of-Large-Intestine.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Large+Intestine/4_colon_FIBI_HVS109_NoAlpha.ome.tif)  
-2. [Liver/Liver-Lobule.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Liver/150um+scan2_NoAlpha.ome.tif)  
-3. [Lung/Bronchial-Submucosal-Gland.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Lung/crops/D346-RLL-15B3+scan+1+upper+left+region+only+FFC+NoAlpha.ome.tif)  
-4. [Lung/Alveolus-of-Lung.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Lung/crops/D346-RLL-15B3+lung+alveolus+artifact+fixed+CC+NoAlpha.ome.tif)  
-5. [Pancreas/Islet-of-Langerhans-Intercalated-Duct.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Pancreas/P2+3B+Pancreas+Islets+and+Intercalated+Ducts+NoAlpha.ome.tif)  
-6. [Skin/Epidermal-Ridge-of-Digit-and-Dermal-Papilla.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Skin/Skin+-+Epidermal+Ridge+and+Dermal+Papilla+FIBI+20x+NoAlpha.ome.tif)  
-7. [Skin/Epidermal-Ridge-of-Digit-and-Dermal-Papilla-20x.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Skin/HVS100_Skin+Epidermal+Ridge+and+Dermal+Papilla+FIBI+20x+NoAlpha.ome.tif)  
-8. [Small Intestine/Intestinal-Villus-20x.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Small+Intestine/Small+Intestine+-+Villus+FIBI+20x+NoAlpha.ome.tif)  
-9. [Small Intestine/Intestinal-Villus-20x.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Small+Intestine/B015-C2_Small+Intestine+Villus+FIBI+20x+NoAlpha.ome.tif)  
-10. [Spleen/Red-Pulp-and-White-Pulp-20x-w-H2O2-Wash.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Spleen/20-008+SP+CC2-C+NBF_Spleen+Red+Pulp+and+White+Pulp+FIBI+20x+w+H2O2+Wash+NoAlpha.ome.tif)  
-11. [Spleen/Red Pulp-and-White-Pulp-20x-No-H2O2-Wash.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Spleen/20-008+SP+CC2-C+NBF_Spleen+-+Red+Pulp+and+White+Pulp+FIBI+20x+No+H2O2+Wash+NoAlpha.ome.tif)  
-12. [Thymus/Thymus-Lobule-20x.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Thymus/20-008+THY+CC2-C+NBFIMC_Thymus+Lobule+FIBI+20x+NoAlpha.ome.tif)  
-    
+* [Large Intestine: Multiple Crypt of Liberkuhn of Large Intestine.jpg](https://cdn.humanatlas.io/fibi-image-store/Large%20Intestine/extras/LargeIntestine_Crypt_2_9x16crop_CC_UMNR_NoAlpha.jpg)
+* [Large Intestine: Single Crypt of Liberkuhn of Large Intestine.jpg](https://cdn.humanatlas.io/fibi-image-store/Large%20Intestine/LargeIntestine_Crypt_1_9x16crop_CC_UMNR_NoAlpha.jpg)
+* [Lung: Alveolus of Lung.jpg](https://cdn.humanatlas.io/fibi-image-store/Lung/Lung_Alveolus_16x9crop_CC_UMNR_NoAlpha.jpg)
+* [Pancreas: Islet of Langerhans.jpg](https://cdn.humanatlas.io/fibi-image-store/Pancreas/Pancreas_Islets_1_16x9crop_CC_UMNR_NoAlpha.jpg)
+* [Pancreas: Intercalated_Duct And Pancreatic Acinus.jpg](https://cdn.humanatlas.io/fibi-image-store/Pancreas/Pancreas_DuctAndAcinus_1_16x9crop_CC_UMNR_NoAlpha.jpg)
+* [Prostate: Prostate_Glandular Acinus.gif](https://cdn.humanatlas.io/fibi-image-store/Prostate/Prostate_Acinus_SquareStack_UM_NoAlpha.gif)
+* [Liver: Liver_Lobule.jpg](https://cdn.humanatlas.io/fibi-image-store/Liver/Liver_Lobule_1_16x9crop_CC_UMNR_NoAlpha.jpg)
+* [Thymus: Thymus_Lobule.jpg](https://cdn.humanatlas.io/fibi-image-store/Thymus/Thymus_Lobule_9x16crop_CC_UMNR_NoAlpha.jpg)
+* [Skin: Epidermal Ridge_And Dermal Papilla.jpg](https://cdn.humanatlas.io/fibi-image-store/Skin/Skin_EpidermalRidge_DermalPapilla_1_16x9crop_CC_UMNR_NoAlpha.jpg)
+* [Spleen: Red Pulp And White Pulp.jpg](https://cdn.humanatlas.io/fibi-image-store/Spleen/Spleen_RedAndWhitePulp_9x16crop_CC_UMNR_NoAlpha.jpg)
+* [Small Intestine: Intestinal Villus.jpg](https://cdn.humanatlas.io/fibi-image-store/Small%20Intestine/SmallIntestine_Villus_1_9x16crop_CC_UMNR_NoAlpha.jpg)
+* [Kidney: Renal Corpuscle.jpg](https://cdn.humanatlas.io/fibi-image-store/Kidney/Kidney_Glom_1_16x9crop_CC_UMNR_NoAlpha.jpg)
+
 
 # Acknowledgments
 
