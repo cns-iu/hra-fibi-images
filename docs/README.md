@@ -2,8 +2,6 @@
 
 ## June 15, 2025
 
-# Fluorescence Imitating Brightfield Imaging (FIBI)
-
 Fluorescence Imitating Brightfield Imaging (FIBI) \[1\] is a microscopy technique developed at UC Davis by Dr. Farzad Fereidouni with guidance from Dr. Richard Levenson. This technology represents a form of “slide-free microscopy," enabling much faster imaging of tissue specimens at the histological level compared to traditional slide methods, which necessitate extensive processing (such as formalin fixation, paraffin embedding, and thin sectioning). Thick or unsectioned specimens, whether fresh or fixed, can be prepared and scanned in just minutes.  Resulting images reveal the three-dimensional structure of meso-scale anatomical structures (see **Fig. 1**), using a method involving image acquisitions at multiple focal planes..  
 
 ![](image1.png) 
@@ -20,7 +18,6 @@ Functional tissue units (see **Fig. 2**) form the basic building blocks of organ
 FIBI-processed images (see **Fig. 3, right**) make it possible to study whole FTUs by providing rapid, high-resolution visualization of intact tissue architecture without the need for traditional sectioning. The 2.5-dimensional nature of these images preserves spatial continuity and depth cues, enabling a clearer interpretation of FTU structure and physiological function plus meso-scale tissue organization.
 
 ![](image3.png) 
-
 **Figure 3**: Visual comparison between the prostate glandular acinus gland FTU (left) and FIBI-processed tissue image of the prostate gland (right).
 
 # Images
