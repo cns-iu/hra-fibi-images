@@ -30,7 +30,7 @@ write ""
 write "## Cropped Images (full size)"
 write ""
 
-find output -name "*.jpg" | grep "thumb.jpg" | while IFS= read -r file; do
+find output -name "*.jpg" | grep -v "thumb.jpg" | while IFS= read -r file; do
   label=$(echo "$file" | perl -pe 's/output\///g')
   path=$(echo "$file" | perl -pe 's/output\///g;s/\ /\%20/g;')
   write "* [$label](https://cdn.humanatlas.io/fibi-image-store/$path)"

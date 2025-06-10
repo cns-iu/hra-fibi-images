@@ -20,17 +20,17 @@
 
 ## Cropped Images (full size)
 
-* [Large Intestine/extras/LargeIntestine_Crypt_2_9x16crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Large%20Intestine/extras/LargeIntestine_Crypt_2_9x16crop_CC_UMNR_NoAlpha.thumb.jpg)
-* [Large Intestine/LargeIntestine_Crypt_1_9x16crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Large%20Intestine/LargeIntestine_Crypt_1_9x16crop_CC_UMNR_NoAlpha.thumb.jpg)
-* [Lung/Lung_Alveolus_16x9crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Lung/Lung_Alveolus_16x9crop_CC_UMNR_NoAlpha.thumb.jpg)
-* [Pancreas/Pancreas_Islets_1_16x9crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Pancreas/Pancreas_Islets_1_16x9crop_CC_UMNR_NoAlpha.thumb.jpg)
-* [Pancreas/Pancreas_DuctAndAcinus_1_16x9crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Pancreas/Pancreas_DuctAndAcinus_1_16x9crop_CC_UMNR_NoAlpha.thumb.jpg)
-* [Liver/Liver_Lobule_1_16x9crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Liver/Liver_Lobule_1_16x9crop_CC_UMNR_NoAlpha.thumb.jpg)
-* [Thymus/Thymus_Lobule_9x16crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Thymus/Thymus_Lobule_9x16crop_CC_UMNR_NoAlpha.thumb.jpg)
-* [Skin/Skin_EpidermalRidge_DermalPapilla_1_16x9crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Skin/Skin_EpidermalRidge_DermalPapilla_1_16x9crop_CC_UMNR_NoAlpha.thumb.jpg)
-* [Spleen/Spleen_RedAndWhitePulp_9x16crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Spleen/Spleen_RedAndWhitePulp_9x16crop_CC_UMNR_NoAlpha.thumb.jpg)
-* [Small Intestine/SmallIntestine_Villus_1_9x16crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Small%20Intestine/SmallIntestine_Villus_1_9x16crop_CC_UMNR_NoAlpha.thumb.jpg)
-* [Kidney/Kidney_Glom_1_16x9crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Kidney/Kidney_Glom_1_16x9crop_CC_UMNR_NoAlpha.thumb.jpg)
+* [Large Intestine/extras/LargeIntestine_Crypt_2_9x16crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Large%20Intestine/extras/LargeIntestine_Crypt_2_9x16crop_CC_UMNR_NoAlpha.jpg)
+* [Large Intestine/LargeIntestine_Crypt_1_9x16crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Large%20Intestine/LargeIntestine_Crypt_1_9x16crop_CC_UMNR_NoAlpha.jpg)
+* [Lung/Lung_Alveolus_16x9crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Lung/Lung_Alveolus_16x9crop_CC_UMNR_NoAlpha.jpg)
+* [Pancreas/Pancreas_Islets_1_16x9crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Pancreas/Pancreas_Islets_1_16x9crop_CC_UMNR_NoAlpha.jpg)
+* [Pancreas/Pancreas_DuctAndAcinus_1_16x9crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Pancreas/Pancreas_DuctAndAcinus_1_16x9crop_CC_UMNR_NoAlpha.jpg)
+* [Liver/Liver_Lobule_1_16x9crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Liver/Liver_Lobule_1_16x9crop_CC_UMNR_NoAlpha.jpg)
+* [Thymus/Thymus_Lobule_9x16crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Thymus/Thymus_Lobule_9x16crop_CC_UMNR_NoAlpha.jpg)
+* [Skin/Skin_EpidermalRidge_DermalPapilla_1_16x9crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Skin/Skin_EpidermalRidge_DermalPapilla_1_16x9crop_CC_UMNR_NoAlpha.jpg)
+* [Spleen/Spleen_RedAndWhitePulp_9x16crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Spleen/Spleen_RedAndWhitePulp_9x16crop_CC_UMNR_NoAlpha.jpg)
+* [Small Intestine/SmallIntestine_Villus_1_9x16crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Small%20Intestine/SmallIntestine_Villus_1_9x16crop_CC_UMNR_NoAlpha.jpg)
+* [Kidney/Kidney_Glom_1_16x9crop_CC_UMNR_NoAlpha.jpg](https://cdn.humanatlas.io/fibi-image-store/Kidney/Kidney_Glom_1_16x9crop_CC_UMNR_NoAlpha.jpg)
 
 ## Full-Size Slide Images
 
