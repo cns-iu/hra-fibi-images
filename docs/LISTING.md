@@ -1,4 +1,9 @@
 
+
+## GIF Images (full size)
+
+* [Prostate/Prostate_Acinus_SquareStack_UM_NoAlpha.gif](https://cdn.humanatlas.io/fibi-image-store/Prostate/Prostate_Acinus_SquareStack_UM_NoAlpha.gif)
+* [Prostate/Prostate_Acinus_SquareStack_UM_NoAlpha.thumb.gif](https://cdn.humanatlas.io/fibi-image-store/Prostate/Prostate_Acinus_SquareStack_UM_NoAlpha.thumb.gif)
 ## Cropped Images (smaller size)
 
 * [Large Intestine/extras/LargeIntestine_Crypt_2_9x16crop_CC_UMNR_NoAlpha.thumb.jpg](https://cdn.humanatlas.io/fibi-image-store/Large%20Intestine/extras/LargeIntestine_Crypt_2_9x16crop_CC_UMNR_NoAlpha.thumb.jpg)
@@ -34,3 +39,4 @@
 * [Lung/Lung_Submucosalgland_scan_CC_UMNR_NoAlpha.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Lung/Lung_Submucosalgland_scan_CC_UMNR_NoAlpha.ome.tif)
 * [Lung/Lung_Submucosalgland_scan_v2_CC_UMNR_NoAlpha.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Lung/Lung_Submucosalgland_scan_v2_CC_UMNR_NoAlpha.ome.tif)
 * [Pancreas/Pancreas_3FTUs_scan_CC_UMNR_NoAlpha.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Pancreas/Pancreas_3FTUs_scan_CC_UMNR_NoAlpha.ome.tif)
+* [Liver/Liver_Lobule_1_scan_CC_UMNR_NoAlpha.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Liver/Liver_Lobule_1_scan_CC_UMNR_NoAlpha.ome.tif)

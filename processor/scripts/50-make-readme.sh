@@ -8,6 +8,16 @@ write() {
   echo "$1" >> $LIST
 }
 
+write ""
+write "## GIF Images (full size)"
+write ""
+
+find output -name "*.gif" | while IFS= read -r file; do
+  label=$(echo "$file" | perl -pe 's/output\///g')
+  path=$(echo "$file" | perl -pe 's/output\///g;s/\ /\%20/g;')
+  write "* [$label](https://cdn.humanatlas.io/fibi-image-store/$path)"
+done
+
 write "## Cropped Images (smaller size)"
 write ""
 find output -name "*.jpg" | grep "thumb.jpg" | while IFS= read -r file; do
