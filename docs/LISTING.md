@@ -40,3 +40,7 @@
 * [Lung: Lung Submucosal Gland_scan_v2.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Lung/Lung_Submucosalgland_scan_v2_CC_UMNR_NoAlpha.ome.tif)
 * [Pancreas: Pancreas_3FTUs.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Pancreas/Pancreas_3FTUs_scan_CC_UMNR_NoAlpha.ome.tif)
 * [Liver: Liver_Lobule.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Liver/Liver_Lobule_1_scan_CC_UMNR_NoAlpha.ome.tif)
+
+* [Small Intestine: SmallIntestine_Villus.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Small+Intestine/SmallIntestine_Villus_1_scan_CC_UMNR_NoAlpha.ome.tif)
+* [Thymus: Thymus_Lobule.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Thymus/Thymus_Lobule_scan_CC_UMNR_NoAlpha.ome.tif)
+* [Skin: Skin_EpidermalRidge_DermalPapilla.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Skin/Skin_EpidermalRidge_DermalPapilla_1_scan_CC_UMNR_NoAlpha.ome.tif)
