@@ -34,7 +34,7 @@
 
 ## Full-Size Slide Images
 
-* [Large Intestine: Crypt of Liberkuhn of Large Intestine.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Large+Intestine/LargeIntestine_Crypt_1_scan_CC_UMNR_NoAlpha.ome.tif)
+* [Large Intestine: Crypt of Liberkuhn of Large Intestine.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Large+Intestine/LargeIntestine_Crypt_1_scan_CC_UMNR_NoAlpha_reexport.ome.tif)
 * [Lung: Alveolus of Lung.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Lung/nice+alveolus+with+EDOF+100by2+inner+artifact+fixed+color+corrected+edit2+NoAlpha.ome.tif)
 * [Lung: Lung Submucosal Gland.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Lung/Lung_Submucosalgland_scan_CC_UMNR_NoAlpha.ome.tif)
 * [Lung: Lung Submucosal Gland_scan_v2.ome.tif](https://avivator.gehlenborglab.org/?image_url=https://cdn.humanatlas.io/fibi-image-store/Lung/Lung_Submucosalgland_scan_v2_CC_UMNR_NoAlpha.ome.tif)

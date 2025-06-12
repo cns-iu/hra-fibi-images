@@ -1,5 +1,5 @@
 #!/bin/bash
-set -ev
+set -e
 source constants.sh
 
 INPUT=$1
